@@ -1,0 +1,47 @@
+front-end:
+html css js
+
+
+
+
+back-end:
+server
+db-mdb
+
+api-application programming interface-media use for communicating between front-e back-e
+     https
+     request types-
+      POST-To store datas  eg.register
+      GET- To access data eg.login,balance check
+      PUT-complete updation
+      PATCH-Partial updation
+      DELETE-to delete datas
+
+thunderclient-
+1xx-informatinal
+2xx-success
+3xx-redirection
+4xx-client side error
+5xx-server error 
+
+REST API-structured api
+REST-representaional state transfer api
+
+fake apis can be take from website-//json placeholder//
+
+API in  Javascript
+-------------------
+
+jsnte akath api sine handle cheyyan use  cheyyana technollgy an ajax
+ajax-asynchronous javascript and xml
+ajax-create api request
+ajax-2 methods-
+1-xmlhttps
+2-fetch(simple method)
+
+both are asynchronous-which is not a sequencial code
+//asychronous code/function has a delay in output//
+
+why there is a delay?
+check note date 21/01/2023
+

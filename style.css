@@ -1,0 +1,111 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+.banner-image{ background-image: url("./images/Laptop-Background-Images-36-images-DodoWallpaper..jpg");
+background-repeat: no-repeat;
+background-size:cover;
+filter: brightness(70%);
+}
+/* homepage */
+#homnav {
+    background-color:black;
+    height: 75px;
+
+}
+
+
+
+
+
+
+
+
+/* -------------------------------- */
+.navbar-brand a:hover{
+    color: white;
+    font-size: 35px;
+
+}
+.nav-item a{
+    color: #22adad;
+    text-decoration: none;
+}
+.nav-item a:hover{
+    color:white
+}
+.navbar-brand a{
+text-decoration: none;
+color:#22adad ;
+font-weight: 600;
+font-size: 35px;
+
+}
+.e{
+    color: white;
+}
+.e:hover{
+    color:rgb(34, 173, 173) ;
+}
+.div-login{
+    color: white;
+}
+/* "style="style=background: transparent;border: 2px solid #22adad ;border-radius: 37px;width: 100px;height: 50px;" */
+#signin{
+    background: transparent;
+    border: 2px solid #22adad 
+    ;border-radius: 37px;
+    width: 100px;
+    height: 50px;
+    color: white;
+     
+}
+#signin:hover{
+    background-color: #81e9db;
+    color: white;
+}
+#signup{
+    background: transparent;
+    border: 2px solid #22adad 
+    ;border-radius: 37px;
+    width: 100px;
+    height: 50px;
+    color: white;
+     
+}
+
+#signup:hover{
+    background-color: #81e9db;
+    color: white;
+}
+#signoutb{
+    background-color: #22adad;
+    border: 2px solid black; 
+    ;border-radius: 37px;
+    width: 100px;
+    height: 50px;
+    color: black;
+}
+#reach{
+    background: transparent;
+    border: 2px solid #22adad ;
+    border-radius: 37px ;
+                width: 100px;
+                height: 50px;
+                color: white;
+}
+#reach:hover{
+    border: 2px solid white;
+    color: #22adad;
+}
+
+/* ----------------sign-up--------------------------- */
+
+#signup-bannerimg{
+    background-image: url("./images/website-parallax-background-C.jpg");
+background-repeat: no-repeat;
+background-size:cover;
+filter: brightness(70%);
+}
